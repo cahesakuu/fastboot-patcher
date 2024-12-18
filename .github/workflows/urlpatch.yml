@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://transfer.sh/<file-id>/<file>.img'
+        default: 'https://gofile.to/R4nx/recovery.img'
         required: true
         type: string
 
