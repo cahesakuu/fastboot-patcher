@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://gofile.to/R4nx/recovery.img'
+        default: 'https://gofile.to/f/23fc254b-5b1f-4bb1-8a04-e23468b5d479'
         required: true
         type: string
 
