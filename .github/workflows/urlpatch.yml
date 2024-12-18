@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://gofile.to/f/23fc254b-5b1f-4bb1-8a04-e23468b5d479'
+        default: 'https://cdn.discordapp.com/attachments/1292497846477525023/1318987687352336505/recovery.img?ex=67645282&is=67630102&hm=34287326e3845e152841b9d7c5dd8b5e1598cb68cbf5a5a13d02d299ad4f2930&'
         required: true
         type: string
 
